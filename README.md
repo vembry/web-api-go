@@ -1,3 +1,5 @@
+```go run .```
+
 # web-api-template-go
 concern:
 - development difficulty
