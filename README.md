@@ -1,6 +1,6 @@
 ```go run .```
 
-# web-api-template-go
+# web-api-go
 concern:
 - development difficulty
   - DRY-ness

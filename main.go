@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/vembry/web-api-template-go/repository"
-	"github.com/vembry/web-api-template-go/service"
+	"github.com/vembry/web-api-go/repository"
+	"github.com/vembry/web-api-go/service"
 )
 
 func main() {

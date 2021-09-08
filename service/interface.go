@@ -1,6 +1,6 @@
 package service
 
-import "github.com/vembry/web-api-template-go/repository"
+import "github.com/vembry/web-api-go/repository"
 
 type HealthServiceParam struct {
 	IHealthRepo *repository.IHealthRepo

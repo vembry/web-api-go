@@ -1,4 +1,4 @@
-module github.com/vembry/web-api-template-go
+module github.com/vembry/web-api-go
 
 go 1.17
 
